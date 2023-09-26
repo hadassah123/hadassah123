@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software engineer student at ALX/ Tech instructor and a UI/UX designer</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
-<p align="left"> <a href="https://twitter.com/hadassah___" target="blank"><img src="https://img.shields.io/twitter/follow/hadassah___?logo=twitter&style=for-the-badge" alt="hadassah___" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hadassahh___" target="blank"><img src="https://img.shields.io/twitter/follow/hadassah___?logo=twitter&style=for-the-badge" alt="hadassah___" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
 
