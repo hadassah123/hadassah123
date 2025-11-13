@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ekanem MaryKate Hadassah</h1>
-<h3 align="center">A passionate Software engineer student at ALX/ Tech instructor and a UI/UX designer</h3>
+<h3 align="center">A passionate Software engineer/Tech instructor and a UI/UX designer</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <a href="https://twitter.com/hadassahh___" target="blank"><img src="https://img.shields.io/twitter/follow/hadassah___?logo=twitter&style=for-the-badge" alt="hadassah___" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently making a website for Africana Ultimate Solutions
 
 - 👨‍💻 All of my projects are available at [https://dribbble.com/Haddy-mk](https://dribbble.com/Haddy-mk)
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kayekanem@gmail.com**
 
-- ⚡ Fun fact **I think plantain is the best**
+- ⚡ Fun fact **plantain is the best**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
