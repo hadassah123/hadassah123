@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently making a website for Africana Ultimate Solutions
 
-- 👨‍💻 All of my projects are available at [https://dribbble.com/Haddy-mk](https://dribbble.com/Haddy-mk)
+- 👨‍💻 All of myv design projects are available at [https://dribbble.com/Haddy-mk](https://dribbble.com/Haddy-mk)
 
-- 💬 Ask me about **Shell, GIT, C programming**
+- 💬 Ask me about **Shell, GIT, C programming, aws, devops, scripting**
 
 - 📫 How to reach me **kayekanem@gmail.com**
 
